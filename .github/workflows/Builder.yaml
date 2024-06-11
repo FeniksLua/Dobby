@@ -112,3 +112,4 @@ jobs:
         artifacts: "build/dobby-macos-all.tar.gz,build/dobby-iphoneos-all.tar.gz"
         allowUpdates: true
         replacesArtifacts: true
+
